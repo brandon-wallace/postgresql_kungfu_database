@@ -1,0 +1,9 @@
+
+Requirements
+
+    - Postgresql 9.5
+    - Python 3.5.2
+
+
+
+
